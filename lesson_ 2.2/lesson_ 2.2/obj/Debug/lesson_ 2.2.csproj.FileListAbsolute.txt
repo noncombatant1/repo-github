@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\bin\Debug\lesson_ 2.2.exe.config
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\bin\Debug\lesson_ 2.2.exe
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\bin\Debug\lesson_ 2.2.pdb
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\obj\Debug\lesson_ 2.2.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\obj\Debug\lesson_ 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\obj\Debug\lesson_ 2.2.exe
+C:\Users\Алексей\source\repos\lesson_ 2.2\lesson_ 2.2\obj\Debug\lesson_ 2.2.pdb
